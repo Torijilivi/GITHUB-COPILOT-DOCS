@@ -16,7 +16,7 @@ This tag will focus in commenting the code automatically according to the requir
 
 [<<](CopilotChat.md)
 
-[Overwiew](/docs/Overview.md)
-[Common Features](/docs/CommonFeatures.md)
-[Copilot Chat](/docs/CopilotChat.md)
-[Inline Chat](/docs/InlineChat.md)
+[Overwiew](/docs/Overview.md) <br>
+[Common Features](/docs/CommonFeatures.md) <br>
+[Copilot Chat](/docs/CopilotChat.md) <br>
+[Inline Chat](/docs/InlineChat.md) <br>

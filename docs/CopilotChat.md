@@ -52,7 +52,7 @@ We can use a combination of context, intention and source to get a desired and s
 
 [<<](CommonFeatures.md)[>>](InlineChat.md)
 
-[Overwiew](/docs/Overview.md)
-[Common Features](/docs/CommonFeatures.md)
-[Copilot Chat](/docs/CopilotChat.md)
-[Inline Chat](/docs/InlineChat.md)
+[Overwiew](/docs/Overview.md) <br>
+[Common Features](/docs/CommonFeatures.md) <br>
+[Copilot Chat](/docs/CopilotChat.md) <br>
+[Inline Chat](/docs/InlineChat.md) <br>
