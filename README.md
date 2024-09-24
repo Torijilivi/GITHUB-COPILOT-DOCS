@@ -5,9 +5,9 @@ Welcome to the GitHub Copilot Documentation! This documentation provides a compr
 ## Table of Contents
 
 - [Overwiew](/docs/Overview.md)
-- [Common_Features](/docs/CommonFeatures.md)
-- [Copilot_Chat](/docs/CopilotChat.md)
-- [Inline_Chat](/docs/InlineChat.md)
+- [Common/ Features](/docs/CommonFeatures.md)
+- [Copilot/ Chat](/docs/CopilotChat.md)
+- [Inline/ Chat](/docs/InlineChat.md)
 
 ## Overview
 

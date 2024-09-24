@@ -1,16 +1,16 @@
-## COMMON FEATURES ##
+# COMMON FEATURES ##
 
 In this point you can find information about elements useful in both chats.
 
-If there are details that change between them it will be in brackets.
+If there are details that change between them, it will be in brackets.
 
-# Providing sources #
+## Providing sources ##
 
 When we are asking something to Copilot, we must provide the information we are asking about, if we want to know how a block of code works we must provide the block of code itself.
 
 In order to do this, we use tags with the '#' symbol.
 
-***file***
+**file**
 
 This tag will be useful to refer to a file or a group of files if used more than once.
 
@@ -22,11 +22,11 @@ This tag will be useful to refer to a file or a group of files if used more than
 1. *Command:* `Modify my code to use procedures from #file:<filename>`
 - *Description:* Modifies the code of the file to use procedures declared in <filename> .
 
-# Providing intention #
+## Providing intention ##
 
 We can use '/' to give details about the intention we have when we are writing a prompt, in other words, the result we want to get.
 
-***/explain***
+**/explain**
 
 Explains code and everything you ask him to explain.
 
@@ -39,7 +39,7 @@ Explains code and everything you ask him to explain.
 1. *Command:* `/explain Explain the selection of code`
 - *Description:* Explains the code you have selected.
 
-***/fix***
+**/fix**
 
 Analyses errors or bad practices in code.
 
@@ -52,7 +52,7 @@ Analyses errors or bad practices in code.
 1. *Command:* `/fix Fix the errors`
 - *Description:* Generates a working alternative for the code you have selected.
 
-***/tests***
+**/tests**
 
 Gets to possible tests for the code you are working with.
 
@@ -64,3 +64,10 @@ Gets to possible tests for the code you are working with.
 (INLINE CHAT)
 1. *Command:* `/tests Generate tests`
 - *Description:* Generates tests for the procedures in your file or selected code.
+
+[<<](Overview.md)[>>](CopilotChat.md)
+
+[Overwiew](/docs/Overview.md)
+[Common/ Features](/docs/CommonFeatures.md)
+[Copilot/ Chat](/docs/CopilotChat.md)
+[Inline/ Chat](/docs/InlineChat.md)

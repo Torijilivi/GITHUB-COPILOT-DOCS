@@ -1,8 +1,4 @@
-## OVERVIEW ##
-
-# INDEX #
-
-# Introduction #
+# OVERVIEW #
 
 We can use GitHub Copilot to generate documentation, for example:
 - Project requirements
@@ -26,3 +22,10 @@ To complete this task more efficiently and get a better response from the AI, we
 These tags may be useful for providing context, referring to specific files, or expressing your goal and desired answer, as well as for other tasks.
 
 We can write prompts, and Copilot will interpret them to return the result we asked for.
+
+[>>](CommonFeatures.md) 
+
+[Overwiew](/docs/Overview.md)
+[Common/ Features](/docs/CommonFeatures.md)
+[Copilot/ Chat](/docs/CopilotChat.md)
+[Inline/ Chat](/docs/InlineChat.md)
