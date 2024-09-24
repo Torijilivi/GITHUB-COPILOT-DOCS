@@ -26,6 +26,6 @@ We can write prompts, and Copilot will interpret them to return the result we as
 [>>](CommonFeatures.md) 
 
 [Overwiew](/docs/Overview.md)
-[Common/ Features](/docs/CommonFeatures.md)
-[Copilot/ Chat](/docs/CopilotChat.md)
-[Inline/ Chat](/docs/InlineChat.md)
+[Common Features](/docs/CommonFeatures.md)
+[Copilot Chat](/docs/CopilotChat.md)
+[Inline Chat](/docs/InlineChat.md)

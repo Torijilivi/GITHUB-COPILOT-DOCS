@@ -68,6 +68,6 @@ Gets to possible tests for the code you are working with.
 [<<](Overview.md)[>>](CopilotChat.md)
 
 [Overwiew](/docs/Overview.md)
-[Common/ Features](/docs/CommonFeatures.md)
-[Copilot/ Chat](/docs/CopilotChat.md)
-[Inline/ Chat](/docs/InlineChat.md)
+[Common Features](/docs/CommonFeatures.md)
+[Copilot Chat](/docs/CopilotChat.md)
+[Inline Chat](/docs/InlineChat.md)
